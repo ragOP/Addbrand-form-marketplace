@@ -36,7 +36,7 @@ function App() {
 
   return (
     <>
-    <h2>raghib & Videos</h2>
+    <h2>raghibss & Videos</h2>
     <div style={div1Style}>
     This is div 1!
       </div>
